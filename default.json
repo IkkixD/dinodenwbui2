@@ -1,1 +1,87 @@
-
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 0,
+			"hideicon": true,
+			"hideiconafter": 15,
+			"iconurl": "https://i.imgur.com/OZ6xOjY.png",
+			"disableicontext": false,
+			"iconposition": 0,
+			"icontextcolor": 0,
+			"openonstart": true,
+			"openonstartonlynewplayers": true,
+			"updateinterval": 12
+		},
+		"tabs": [
+			{
+				"layout": 1,
+				"buttontext": "Welcome",
+				"imageurl": "https://i.imgur.om/mGt3cAF.png",
+				"content": [
+					{
+						"title": "Welcome to DinoDen!",
+						"text": "Welcome and thanks for playing!\r\nPress F1 to view this menu in the future.\r\nF2 or holding Square / X will open the shop.\r\nPlease check out the other tabs that show our rates, information, planned additions, etc."
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "Settings",
+				"imageurl": "3cAF.png",
+				"content": [
+					{
+						"title": "Server Rates",
+						"text": "5x XP\r\n3x Gather\r\n6x Taming (3x rates, but food drains at 2x)\r\n10x Dino mature speed\r\n50% mating cooldown\r\n100x Egg Hatch\r\n3x faster passive tame feedings.\r\n1.5x Resource health\r\n3x Crop Growth\r\n1 week upload expiration\r\n3x Corpse life (90 minutes)\r\n3x Fishing Loot\r\n2x Loot crate quality\r\n10,000+ stack sizes"
+					},
+					{
+						"title": "Additional Information",
+						"text": "Cave Building is on (Read rules)\r\n10x Platform build limits\r\n5x Platform build distance\r\nAnyone can Imprint\r\nCryoFridge allowed everywhere, not required\r\nFlyer Carry allowed"
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "Rules",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "Game Rules",
+						"text": "No cheating, exploiting, hacking, bug abusing, etc.\r\nNo aggressive dinos outside of your base.\r\nNo stealing from others, insiding, etc. If you make a trade or deal you must honor it.\r\nNo griefing of any sort!\r\nNo excessive bases. Try to keep it to 1 or 2 per map.\r\nNo building at any important locations. Examples are :\r\nArtifacts, drops, caves, etc. Everyone must have equal access to these things.\r\nIf you build a structure near anything important, it must have a public teleporter and be unlocked.\r\nNo excessive building spam / traps. Pick up your traps after you tame!\r\nPublic traps in places that warrant them are okay."
+					},
+					{
+						"title": "General Rules",
+						"text": "No hate speech, racism, etc\r\nNo bullying or abuse towards any players or admins.\r\nAll of these rules are subject to change\r\nThis is an 18+ server, so there won't be censorship, but keep it friendly."
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "Future Plans",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "SoonTM",
+						"text": "- More mods! Including Unrestricted Premium Mods as soon as they are available. \r\n- More maps! (The plan is to eventually have every map, possible the free + paid versions.)\r\n- I'm going to get more ram for my server soon and add the following maps\r\n- Temptress Lagoon:Enchanted\r\n- Reverence Premium\r\n- Appalachia Premium\r\n- Althemia Premium\r\n- After this, the intent is to get a 2nd server with the same specs so we keep good performance while being able to double the amount of maps.\r\n- Webshop additions\r\n- Additional in game shop / kit additions"
+					},
+					{
+						"title": "Eventually",
+						"text": "- Our #1 goal is to create the largest clusters & largest collection of clusters.\r\n- We want to create a server for everyone. PvE, PvP, Overhaul mods, ASA, ASE.\r\n- Community Events & more (Bosses, mini games, etc)\r\n- Mutation / breeding / farming events\r\n- Tribe syncing between clusters\r\n- Lootboxes\r\n- Battle pass\r\n- Customized drops\r\n- Quests\r\n- Better dino speed (I plan to remove the points completely and make them faster for each of the 88 after-tame levels)\r\n- Better player speed (Ideally the same as the dino speed above.)\r\n- Default preferences for dinos (Disabling ally looking, follow range, stance, etc)\r\n- Better uploading / downloading features\r\n- PVP Server?\r\n- Primal Chaos Server?\r\n- Primal Nemesis Server?\r\n- Omega Ascended Server?\r\n- Possibly leaderboard for tames / bosses / kills?"
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "Discord",
+				"url": "https://discord.gg/nJATtnep"
+			},
+			{
+				"text": "Webstore",
+				"url": "https://dinoden.tip4serv.com/"
+			}
+		],
+		"version": 2
+	}
+}

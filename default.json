@@ -37,7 +37,7 @@
 					},
 					{
 						"title": "Additional Information",
-						"text": "Cave Building is on (Read rules)\r\n10x Platform build limits\r\n5x Platform build distance\r\nAnyone can Imprint\r\nCryoFridge allowed everywhere, not required\r\nFlyer Carry allowed"
+						"text": "MoveSpeed is enabled, but you can only put in 10 points on Dinos & 15 points on players. This will be replaced by a better movement system eventually.\r\nCave Building is on (Read rules)\r\n10x Platform build limits\r\n5x Platform build distance\r\nAnyone can Imprint\r\nCryoFridge allowed everywhere, not required\r\nFlyer Carry allowed"
 					}
 				]
 			},
@@ -63,7 +63,7 @@
 				"content": [
 					{
 						"title": "SoonTM",
-						"text": "- More mods! Including Unrestricted Premium Mods as soon as they are available. \r\n- More maps! (The plan is to eventually have every map, possible the free + paid versions.)\r\n- I'm going to get more ram for my server soon and add the following maps\r\n- Temptress Lagoon:Enchanted\r\n- Reverence Premium\r\n- Appalachia Premium\r\n- Althemia Premium\r\n- After this, the intent is to get a 2nd server with the same specs so we keep good performance while being able to double the amount of maps.\r\n- Webshop additions\r\n- Additional in game shop / kit additions"
+						"text": "- Setting movespeed on a per-flyer basis. Let me know if any ground dinos need changes too.\r\n- I'm going to get more ram for my server soon and add the following maps\r\n- Temptress Lagoon:Enchanted\r\n- Reverence Premium\r\n- Appalachia Premium\r\n- Althemia Premium\r\n- After this, the intent is to get a 2nd server with the same specs so we keep good performance while being able to double the amount of maps.\r\n- Webshop additions\r\n- Additional in game shop / kit additions\r\n- More mods! Including Unrestricted Premium Mods as soon as they are available. \r\n- More maps! (The plan is to eventually have every map, possible the free + paid versions.)"
 					},
 					{
 						"title": "Eventually",

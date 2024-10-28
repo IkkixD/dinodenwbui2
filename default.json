@@ -33,7 +33,7 @@
 				"content": [
 					{
 						"title": "Server Rates",
-						"text": "5x XP\r\n3x Gather\r\n6x Taming (3x rates, but food drains at 2x)\r\n10x Dino mature speed\r\n50% mating cooldown\r\n100x Egg Hatch\r\n3x faster passive tame feedings.\r\n1.5x Resource health\r\n3x Crop Growth\r\n1 week upload expiration\r\n3x Corpse life (90 minutes)\r\n3x Fishing Loot\r\n2x Loot crate quality\r\n10,000+ stack sizes"
+						"text": "5x XP\r\n3x Gather\r\n6x Taming (3x rates, but food drains at 2x)\r\n10x Dino mature speed\r\n75% faster mating cooldown\r\n100x Egg Hatch\r\n3x faster passive tame feedings.\r\n1.5x Resource health\r\n3x Crop Growth\r\n1 week upload expiration\r\n3x Corpse life (90 minutes)\r\n3x Fishing Loot\r\n2x Loot crate quality\r\n10,000+ stack sizes"
 					},
 					{
 						"title": "Additional Information",

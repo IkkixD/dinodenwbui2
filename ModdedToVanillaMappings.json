@@ -5,6 +5,14 @@
       "toClass": "/Game/Extinction/Dinos/Owl/Owl_Character_BP.Owl_Character_BP"
     },
     {
+      "fromClass": "/SnowOwls/Owl_Character_BP_early_eden.Owl_Character_BP_early_eden",
+      "toClass": "/Game/Extinction/Dinos/Owl/Owl_Character_BP.Owl_Character_BP"
+    },
+    {
+      "fromClass": "/SnowOwls/Owl_Character_BP_early_Prisminium.Owl_Character_BP_early_Prisminium",
+      "toClass": "/Game/Extinction/Dinos/Owl/Owl_Character_BP.Owl_Character_BP"
+    },
+    {
       "fromClass": "/Gigantoraptor/Gigantoraptor/Gigantoraptor_Character_BP.Gigantoraptor_Character_BP",
       "toClass": "/Game/ASA/Dinos/Gigantoraptor/Gigantoraptor_Character_BP.Gigantoraptor_Character_BP"
     }

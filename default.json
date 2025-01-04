@@ -6,10 +6,10 @@
 			"openbutton": 0,
 			"hideicon": true,
 			"hideiconafter": 15,
-			"iconurl": "https://i.imgur.com/OZ6xOjY.png",
+			"iconurl": "https://i.imgur.com/zHguyK1.png",
 			"disableicontext": false,
 			"iconposition": 0,
-			"icontextcolor": 0,
+			"icontextcolor": 7,
 			"openonstart": true,
 			"openonstartonlynewplayers": true,
 			"updateinterval": 12
@@ -18,11 +18,30 @@
 			{
 				"layout": 1,
 				"buttontext": "Welcome",
-				"imageurl": "https://i.imgur.om/mGt3cAF.png",
+				"imageurl": "",
 				"content": [
 					{
 						"title": "Welcome to DinoDen!",
 						"text": "Welcome and thanks for playing!\r\nPress F1 to view this menu in the future.\r\nF2 or holding Square / X will open the shop.\r\nPlease check out the other tabs that show our rates, information, planned additions, etc."
+					}
+				]
+			},
+			{
+				"layout": 3,
+				"buttontext": "Rules",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "Rules",
+						"text": "All of these rules are subject to change\r\nNo hate speech, racism, etc\r\nNo bullying or abuse towards any players or admins.\r\nThis is an 18+ server, so there is no censorship, but keep it friendly.\r\n\r\nNo cheating, exploiting, hacking, bug abusing, etc.\r\nNo stealing from others, insiding, etc. If you make a trade or deal you must honor it.\r\nOne character / Tribe per account This rule is NOT because I care, but to prevent you from getting locked out of your tribe/char due to the transfer system."
+					},
+					{
+						"title": "PvE Specific Rules",
+						"text": "No excessive bases. Try to keep it to 1 or 2 per map.\r\nNo building at any important locations. Examples are :\r\nArtifacts, drops, caves, etc. Everyone must have equal access to these things.\r\nIf you build a structure near anything important, it must have a public teleporter and be unlocked.\r\nNo excessive building spam / traps. Pick up after yourself!\r\nPublic traps in places that warrant them are okay.\r\nNo griefing of any sort!\r\nNo aggressive dinos outside of your base."
+					},
+					{
+						"title": "PvP Specific Rules",
+						"text": "Max of 2 bases per map. Traps / teleporters are okay.\r\nNo meshing of any sort. Instant tribe wipe with likely chance of permanent bans if found.\r\nBe respectful and keep your toxicity to yourself. Do NOT bring it into this discord.\r\nRules & Balance changes are to be expected while we flesh out our pvp."
 					}
 				]
 			},
@@ -33,41 +52,41 @@
 				"content": [
 					{
 						"title": "Server Rates",
-						"text": "5x XP\r\n3x Gather\r\n6x Taming (3x rates, but food drains at 2x)\r\n10x Dino mature speed\r\n75% faster mating cooldown\r\n100x Egg Hatch\r\n3x faster passive tame feedings.\r\n1.5x Resource health\r\n3x Crop Growth\r\n1 week upload expiration\r\n3x Corpse life (90 minutes)\r\n3x Fishing Loot\r\n2x Loot crate quality\r\n10,000+ stack sizes"
+						"text": "Rates:\r\n5x XP\r\n3x Gather\r\n1.5x Resource health\r\n6x Taming (3x rates, but food drains at 2.8x)\r\n10x Dino mature speed\r\n8 hour mating cooldown\r\n100x Egg Hatch\r\n3x faster passive tame feedings\r\n3x Crop Growth\r\n14 day decay timers (Synced between maps / clusters)\r\n3x Corpse life (90 minutes)\r\n3x Fishing Loot\r\n2x Loot crate quality\r\n10,000 stack sizes\r\n\r\nHealth x2 = 20 per level\r\nStamina x5 = 50 per level\r\nOxygen x20 = 200 per level\r\nFood x10 = 100 per level\r\nWater x10 = 100 per level\r\nWeight x10 = 100 per level\r\nMelee x2 = 10% per level\r\nSpeed x1.6 = 2.4% per level (Capped at 136%)\r\nFortitude x2 = 4 per level\r\nCrafting x194 = 1940% per level (Capped at 1 point)"
 					},
 					{
-						"title": "Additional Information",
-						"text": "MoveSpeed is enabled, but you can only put in 10 points on Dinos & 15 points on players. This will be replaced by a better movement system eventually.\r\nCave Building is on (Read rules)\r\n10x Platform build limits\r\n5x Platform build distance\r\nAnyone can Imprint\r\nCryoFridge allowed everywhere, not required\r\nFlyer Carry allowed"
+						"title": "Additional Info",
+						"text": "PvE Griefing prevention (Can't steal eggs, drag bodies, mate dinos)\r\nHigher level dino spawns plugin.\r\nCross-Server & Cross-Cluster chat.\r\nAll items transferrable! Transfer backups (no losing characters!)\r\nIncrease mating range\r\nAuto learn Engrams (Use /engrams if there is an issue)\r\nQuests & Daily/Weekly Quests! Check the Quests tab for more info!\r\nSolo Farm! (Type /farm to start / stop then carry the dino)\r\nDino Speed enabled! (Capped at 10 points)\r\nTons of QOL Mods!\r\nAll custom cosmetics allowed\r\nCloud Dedicated Storage! (Cross-Server Dedicated Storage)\r\nDino Variant cross breeding! (Breed Regular, Tek, Aberrant, etc together! It's bugged atm and will have a higher mating cooldown.)\r\nSo much more & even more to come!\r\nIf you think I should add anything else here please let me know"
 					}
 				]
 			},
 			{
 				"layout": 2,
-				"buttontext": "Rules",
+				"buttontext": "Commands & Other Info",
 				"imageurl": "",
 				"content": [
 					{
-						"title": "Game Rules",
-						"text": "No cheating, exploiting, hacking, bug abusing, etc.\r\nNo aggressive dinos outside of your base.\r\nNo stealing from others, insiding, etc. If you make a trade or deal you must honor it.\r\nNo griefing of any sort!\r\nNo excessive bases. Try to keep it to 1 or 2 per map.\r\nNo building at any important locations. Examples are :\r\nArtifacts, drops, caves, etc. Everyone must have equal access to these things.\r\nIf you build a structure near anything important, it must have a public teleporter and be unlocked.\r\nNo excessive building spam / traps. Pick up your traps after you tame!\r\nPublic traps in places that warrant them are okay."
+						"title": "Commands",
+						"text": "Shop\r\n/points - See your current points balance\r\n/shop <Page>. See different pages of the shop.\r\n/buy <ID> <Amount> - Buy an item from the shop\r\n/kit to list all kits, /kit <KitName> to redeem one of them\r\n/buykit <KitName> <Amount>. - Buys a kit. \r\n/trade <'CharacterName'> <Amount> - Sends Points to a player.\r\n\r\nSolo Farm\r\n/farm - This toggles the dino you're looking at to attack. Optionally specify 0-6 to pick which attack to use.\r\n/stopall - this will stop all dinos from auto farming.\r\n\r\nChat\r\n/pm <'playername'> <message> - example : \"/pm 'DinoDen' hi\"\r\n/r <msg> - This replies to the most recent pm\r\n/tribelog <webhook url> - This allows you to send tribe logs to discord. Feel free to ask for help setting it up!\r\n\r\nDino Commands\r\n/cg - Change's Gender of a dino for 1500 points\r\n/rename <name> - Changes all nearby dino names\r\n/imprint - Imprints a dino for 1500 points\r\n/grow - Fully grows a dino for 2000 points\r\n/destroybabies <range> - Kills claimed babies in a radius (0-900)\r\n/claimbabies <range> - Claims babies in a radius (0-900)"
 					},
 					{
-						"title": "General Rules",
-						"text": "No hate speech, racism, etc\r\nNo bullying or abuse towards any players or admins.\r\nAll of these rules are subject to change\r\nThis is an 18+ server, so there won't be censorship, but keep it friendly."
+						"title": "Other Info",
+						"text": "Quests\r\nYou can press F3 or access it via the radial menu.\r\nDaily quests - points ranging from 100 - 2000\r\nWeekly Quests - points ranging from 100 - 2000 & 2 random potions\r\nQuest Chains - Rewards are different per chain, but mostly consist of potions, points, temporary VIP roles.\r\n\r\n"
 					}
 				]
 			},
 			{
-				"layout": 2,
+				"layout": 1,
 				"buttontext": "Future Plans",
 				"imageurl": "",
 				"content": [
 					{
 						"title": "SoonTM",
-						"text": "- Setting movespeed on a per-flyer basis. Let me know if any ground dinos need changes too.\r\n- I'm going to get more ram for my server soon and add the following maps\r\n- Temptress Lagoon:Enchanted\r\n- Reverence Premium\r\n- Appalachia Premium\r\n- Althemia Premium\r\n- After this, the intent is to get a 2nd server with the same specs so we keep good performance while being able to double the amount of maps.\r\n- Webshop additions\r\n- Additional in game shop / kit additions\r\n- More mods! Including Unrestricted Premium Mods as soon as they are available. \r\n- More maps! (The plan is to eventually have every map, possible the free + paid versions.)"
+						"text": "- More Maps!\r\n- More Events!\r\n- More Plugins!\r\n- Lootboxes?\r\n- PvP Raid Bases for PvP & PvE!\r\n- ???"
 					},
 					{
 						"title": "Eventually",
-						"text": "- Our #1 goal is to create the largest clusters & largest collection of clusters.\r\n- We want to create a server for everyone. PvE, PvP, Overhaul mods, ASA, ASE.\r\n- Community Events & more (Bosses, mini games, etc)\r\n- Mutation / breeding / farming events\r\n- Tribe syncing between clusters\r\n- Lootboxes\r\n- Battle pass\r\n- Customized drops\r\n- Quests\r\n- Better dino speed (I plan to remove the points completely and make them faster for each of the 88 after-tame levels)\r\n- Better player speed (Ideally the same as the dino speed above.)\r\n- Default preferences for dinos (Disabling ally looking, follow range, stance, etc)\r\n- Better uploading / downloading features\r\n- PVP Server?\r\n- Primal Chaos Server?\r\n- Primal Nemesis Server?\r\n- Omega Ascended Server?\r\n- Possibly leaderboard for tames / bosses / kills?"
+						"text": ""
 					}
 				]
 			}
@@ -75,7 +94,7 @@
 		"links": [
 			{
 				"text": "Discord",
-				"url": "https://discord.gg/rJmhcrchZR"
+				"url": "https://discord.gg/dinoden"
 			},
 			{
 				"text": "Webstore",

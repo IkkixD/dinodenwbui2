@@ -16,13 +16,13 @@
 		},
 		"tabs": [
 			{
-				"layout": 1,
+				"layout": 2,
 				"buttontext": "Welcome",
 				"imageurl": "",
 				"content": [
 					{
 						"title": "Welcome to DinoDen!",
-						"text": "Welcome and thanks for playing!\r\nPress F1 to view this menu in the future.\r\nF2 or holding Square / X will open the shop.\r\nPlease check out the other tabs that show our rates, information, planned additions, etc."
+						"text": "Welcome and thanks for playing!\r\nPress F1 to view this menu in the future.\r\nPress F2 to view the shop. \r\nPress F3 to view Quests.\r\nThese are also in the radial menu for consoles players.\r\nConsole players have to use the shop via commands.\r\nPlease check out the other tabs that show our rates, information, etc"
 					}
 				]
 			},

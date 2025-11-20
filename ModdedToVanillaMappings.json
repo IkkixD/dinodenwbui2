@@ -48,6 +48,7 @@
       "fromClass": "/Atlas_Felis/Cat/Felis_Character_BP.Felis_Character_BP",
       "toClass": "/Game/ASA/Dinos/Cat/Cat_Character_BP.Cat_Character_BP"
     },
+	{
       "fromClass": "/Atlas_Felis/Cat/Felis_Character_BP_Aberrant.Felis_Character_BP_Aberrant",
       "toClass": "/Game/ASA/Dinos/Cat/Cat_Character_BP.Cat_Character_BP"
     },
@@ -55,6 +56,7 @@
       "fromClass": "/Atlas_Felis/Cat/Felis_Character_BP_Scorched.Felis_Character_BP_Scorched",
       "toClass": "/Game/ASA/Dinos/Cat/Cat_Character_BP.Cat_Character_BP"
     },
+	{
 	    {
       "fromClass": "/SnowOwls/Owl_Character_BP_early.Owl_Character_BP_early",
       "toClass": "/Game/Extinction/Dinos/Owl/Owl_Character_BP.Owl_Character_BP"

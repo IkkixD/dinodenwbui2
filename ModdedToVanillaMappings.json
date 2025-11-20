@@ -29,11 +29,11 @@
       "toClass": "/Game/ASA/Dinos/Helicoprion/Helicoprion_Character_BP.Helicoprion_Character_BP"
     },
     {
-      "fromClass": "/Gryphons/Subspecies/Mountain/Gryphon_Character_BP.Gryphon_Character_BP”,
+      "fromClass": "/Gryphons/Subspecies/Mountain/Gryphon_Character_BP.Gryphon_Character_BP",
       "toClass": "/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP"
     },
     {
-      "fromClass": "/Gryphons/Subspecies/Arctic/Gryphon_Arctic_Character_BP.Gryphon_Arctic_Character_BP”,
+      "fromClass": "/Gryphons/Subspecies/Arctic/Gryphon_Arctic_Character_BP.Gryphon_Arctic_Character_BP",
       "toClass": "/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP"
     },
     {
@@ -41,7 +41,7 @@
       "toClass": "/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP"
     },
     {
-      "fromClass": "/Gryphons/Subspecies/Pygmy/Gryphon_Pygmy_Character_BP.Gryphon_Pygmy_Character_BP”,
+      "fromClass": "/Gryphons/Subspecies/Pygmy/Gryphon_Pygmy_Character_BP.Gryphon_Pygmy_Character_BP",
       "toClass": "/Game/Mods/Ragnarok/Custom_Assets/Bosses/Griffin_Character_Minion_BP.Griffin_Character_Minion_BP"
     },
     {
